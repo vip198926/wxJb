@@ -20,25 +20,14 @@
  **************************************************************************
  * Created with IntelliJ IDEA.
  * @Version: EasyClick 5.13.0 js
- * @PROJECT_NAME: fyyl
+ * @PROJECT_NAME: wxJb
  * @Description: 初始化功能模块
  * @Author: 青稞
  * @QQ: 394684614@qq.com
  * @Date: 2020-12-10 19:33:21
  * @LastEditors: 青稞
- * @LastEditTime: 2020-12-21 07:52:21
+ * @LastEditTime: 2020-12-21 08:49:21
  */
-
-
-
-
-
-/*
- * 初始化功能模块
- * @type
- */
-
-
 
 
 let w = device.getScreenWidth()
